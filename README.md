@@ -75,3 +75,8 @@ This project involves creating a form-based web application to manage invoices, 
    ```bash
    cd ./server
    npm start
+
+3. **To add dummy product data**:
+   ```bash
+   cd ./server
+ * here one file is added to import into mongoDB for dummy product data
