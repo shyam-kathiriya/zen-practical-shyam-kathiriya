@@ -1,42 +1,22 @@
-# Material UI - Create React App example
+# To run Client project
 
-## How to use
+## Available Scripts
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+In the project directory, you can run:
 
-<!-- #default-branch-switch -->
+### `npm start`
 
-```bash
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/material-ui-cra
-cd material-ui-cra
-```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Install it and run:
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-```bash
-npm install
-npm start
-```
+### `npm run build`
 
-or:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<!-- #default-branch-switch -->
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/github/mui/material-ui/tree/master/examples/material-ui-cra)
-
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/material-ui-cra)
-
-## The idea behind the example
-
-<!-- #default-branch-switch -->
-
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app) with Material UI.
-It includes `@mui/material` and its peer dependencies, including [Emotion](https://emotion.sh/docs/introduction), the default style engine in Material UI v5.
-If you prefer, you can [use styled-components instead](https://mui.com/material-ui/integrations/interoperability/#styled-components).
-
-## What's next?
-
-<!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation and continue by browsing the [templates](https://mui.com/material-ui/getting-started/templates/) section.
