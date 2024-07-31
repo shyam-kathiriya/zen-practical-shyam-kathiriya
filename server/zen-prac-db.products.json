@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66a95ac52abaa6dc8e66621e"
+  },
+  "prdct_name": "Product 1",
+  "prdct_rate": 120,
+  "prdct_unit": 10,
+  "prdct_id": "780b9594-8a33-449c-843a-dceca3ebd909",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a95e63d9558aa6580dc05c"
+  },
+  "prdct_name": "Product 2",
+  "prdct_rate": 1200,
+  "prdct_unit": 10,
+  "prdct_id": "1acc5067-0deb-4876-8713-f636a6d5fa3c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a95eafd9558aa6580dc05e"
+  },
+  "prdct_name": "Product 4",
+  "prdct_rate": 1200,
+  "prdct_unit": 5,
+  "prdct_id": "0edf2dd8-03f3-488a-a5c8-5732177cdb2b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a95eb8d9558aa6580dc060"
+  },
+  "prdct_name": "Product 5",
+  "prdct_rate": 150,
+  "prdct_unit": 5,
+  "prdct_id": "aeb2cd3a-de42-414c-8565-20b8099bba33",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a95ebfd9558aa6580dc062"
+  },
+  "prdct_name": "Product 6",
+  "prdct_rate": 1500,
+  "prdct_unit": 34,
+  "prdct_id": "194e4c0e-d3d6-4780-aa90-0136d0d112d0",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a95eced9558aa6580dc064"
+  },
+  "prdct_name": "Product 3",
+  "prdct_rate": 15000,
+  "prdct_unit": 1,
+  "prdct_id": "566a78ea-cde6-4c70-b0e9-78784fdc486f",
+  "__v": 0
+}]
