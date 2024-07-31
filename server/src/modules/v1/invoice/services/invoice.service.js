@@ -12,7 +12,7 @@ const addInvoice = async (data) => {
   let _data = {
     invc_no,
     invc_customer_name: data.invc_customer_name,
-    invc_total_amount: data.invc_items.reduce((acc, curr) => acc + curr?.invcd_total_amount, 0)
+    invc_total_amount: data.invc_items.reduce((acc, curr) => acc + Number(curr?.invcd_total_amount), 0)
   }
 
   const invoice = await InvoiceModel.create(_data);
